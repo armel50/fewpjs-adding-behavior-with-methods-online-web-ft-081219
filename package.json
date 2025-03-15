@@ -9,7 +9,7 @@
   "author": "flatironschool",
   "license": "Included in Repo",
   "dependencies": {
-    "@babel/core": "^7.4.5",
+    "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.4.5",
     "chai": "^4.2.0",
     "file-system": "^2.2.2",
